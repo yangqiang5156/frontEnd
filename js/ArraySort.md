@@ -54,7 +54,7 @@
     var arr3 = [2,4,3,5,5,2,1,0,12,6];
     var res3 =  quickSort(arr3);
         ```
-+ js数组去重
+ + js数组去重
 
     ```javascript
     //js数组去除重复数据1
