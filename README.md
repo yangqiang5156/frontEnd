@@ -3,4 +3,4 @@
 
 + [1.js数组排序与去重](js/ArraySort.md)
 + [2.js获取url参数](js/urlParam.md)
-+ [1.前端常见算法](js/前端常见算法.md)
++ [3.前端常见算法](js/前端常见算法.md)
