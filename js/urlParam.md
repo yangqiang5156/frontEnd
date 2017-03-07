@@ -1,4 +1,4 @@
-###js获取url里的参数
+##js获取url里的参数
 
 ```javascript
 function GetRequest() { 
